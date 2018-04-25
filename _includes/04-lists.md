@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+### Favourite activities :smiley:
+* Gyming
+* Snowboarding
+* Balling
+* Drawing
+* Coding
+* Eating
+* Sleeping
