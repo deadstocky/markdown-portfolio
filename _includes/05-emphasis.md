@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Some awesome attributes :muscle:
+
+* I **design** user interfaces with *Sketch, Adobe CC, and Invision*
+* I **can** use *HTML, CSS, and JavaScript*
+* I *can* jump high
