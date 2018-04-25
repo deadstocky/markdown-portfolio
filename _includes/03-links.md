@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+#### Links
+- [Portfolio](https://donovanhong.com/)
+- [Instagram](https://instagram.com/deadstocky)
+- [Github](https://github.com/deadstocky)
